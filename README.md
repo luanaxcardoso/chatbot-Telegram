@@ -7,7 +7,7 @@
 - [time](https://docs.python.org/3/library/time.html)
 - [python-decouple](https://github.com/henriquebastos/python-decouple)
 
-## Passos para Criar um Bot no Telegram:
+## Passos para criar um Bot no Telegram:
 1. Abra o Telegram e pesquise por **"BotFather".**
 2. Inicie uma conversa com o BotFather e digite o comando **/newbot** para criar um novo bot.
 3. Siga as instruções fornecidas pelo BotFather para escolher um username para o seu bot.
@@ -19,7 +19,7 @@
 3. Configure as variáveis no arquivo `.env` (Crie um arquivo .env para inserir o Token do Bot do Telegram).
 4. Execute o script principal: `python main.py`
    
-### Código baseado nos ensinamentos do Professor Claudio Bonel
+### Código baseado nos ensinamentos do Professor Claudio Bonel. Thanks!
 
 ## Arquivo .env
 
