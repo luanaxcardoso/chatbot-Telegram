@@ -14,7 +14,7 @@ Siga as instruções fornecidas pelo BotFather para escolher um username para o 
 Após concluir a criação, o BotFather fornecerá um token (API Key). Copie esse token, para integrar com a API,colocando no arquivo **.env**
 
 ## Como Executar
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/luanaxcardoso/chatbot-Telegram
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Configure as variáveis no arquivo `.env` (Crie um arquivo .env para inserir o Token do Bot do Telegram).
 4. Execute o script principal: `python main.py`
