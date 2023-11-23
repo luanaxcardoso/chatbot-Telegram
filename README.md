@@ -8,10 +8,10 @@
 - [python-decouple](https://github.com/henriquebastos/python-decouple)
 
 ## Passos para Criar um Bot no Telegram:
-Abra o Telegram e pesquise por **"BotFather".**
-Inicie uma conversa com o BotFather e digite o comando **/newbot** para criar um novo bot.
-Siga as instruções fornecidas pelo BotFather para escolher um username para o seu bot.
-Após concluir a criação, o BotFather fornecerá um token (API Key). Copie esse token, para integrar com a API,colocando no arquivo **.env**
+1. Abra o Telegram e pesquise por **"BotFather".**
+2. Inicie uma conversa com o BotFather e digite o comando **/newbot** para criar um novo bot.
+3. Siga as instruções fornecidas pelo BotFather para escolher um username para o seu bot.
+4. Após concluir a criação, o BotFather fornecerá um token (API Key). Copie esse token, para integrar com a API,colocando no arquivo **.env**
 
 ## Como Executar
 1. Clone o repositório: https://github.com/luanaxcardoso/chatbot-Telegram
