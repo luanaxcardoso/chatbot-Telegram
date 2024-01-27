@@ -2,6 +2,7 @@
 
 ## Bibliotecas utilizadas
 
+
 - [pytelegrambotapi](https://github.com/eternnoir/pyTelegramBotAPI)
 - [telebot](https://github.com/eternnoir/pyTelegramBotAPI)
 - [time](https://docs.python.org/3/library/time.html)
