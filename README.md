@@ -20,7 +20,7 @@
 3. Configure as variáveis no arquivo `.env` (Crie um arquivo .env para inserir o Token do Bot do Telegram).
 4. Execute o script principal: `python main.py`
    
-### Código baseado nos ensinamentos do Professor Claudio Bonel. Thanks!
+### Código desenvolvido pelo Professor Claudio Bonel. Thanks!
 
 ## Arquivo .env
 
